@@ -109,4 +109,4 @@ The traffic follows the pattern: branch device ->ISP->Microsoft Edge->Microsoft 
 
 ### In this model, what do you need at each site? Just an internet connection?
 
-Yes. An Internet connection and physical device, preferably from our integrated [partners](https://go.microsoft.com/fwlink/p/?linkid=2019615). You can optionally, manually manage the configuration and connectivity to Azure from your preferred device.
+Yes. An Internet connection and physical device, preferably from our integrated [partners](https://go.microsoft.com/fwlink/p/?linkid=2019615). You can optionally manually manage the configuration and connectivity to Azure from your preferred device.
